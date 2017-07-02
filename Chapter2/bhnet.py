@@ -91,7 +91,7 @@ def client_handler(client_socket):
                 response = str.encode(response)
             client_socket.send(response)
 
-# thsi is for incoming connections
+# this is for incoming connections
 def server_loop():
     global target
     global port
