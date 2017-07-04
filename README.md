@@ -2,8 +2,9 @@
 This repository updates Black Hat Python code originally by Justin Seitz as available on https://www.nostarch.com/download/BHP-Code.zip to support Python 3.6 (as of Python 3.6.1). This is a work-in-progress, so not all chapters' examples are covered, yet. As of 3 July 2017, Chapter 2 examples are completed.
 
 ### Last update:
-**20170703**
-Completed Chapter 2 examples.
+**20170704**
+
+Happy Independence Day! Ch. 3 ICMP Sniffer added.
 
 ### Major Python 2 to Python 3 changes
 Some of the changes are as methodic as print only strictly working parenthetically. 
