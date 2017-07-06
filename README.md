@@ -1,13 +1,13 @@
 # Black Hat Python for python version 3.6 (bhp3) 
-This repository updates Black Hat Python code originally by Justin Seitz as available on https://www.nostarch.com/download/BHP-Code.zip to support Python 3.6 (as of Python 3.6.1). This is a work-in-progress, so not all chapters' examples are covered, yet. As of 3 July 2017, Chapter 2 examples are completed.
+This repository updates Black Hat Python code originally by Justin Seitz as available on https://www.nostarch.com/download/BHP-Code.zip to support Python 3.6 (as of Python 3.6.1). This is a work-in-progress, so not all chapters' examples are covered, yet. As of 6 July 2017, Chapter 3 examples are completed.
 
 ### Last update:
-**20170704**
+**20170706**
 
-Happy Independence Day! Ch. 3 ICMP Sniffer added.
+Ch. 3 code completed.
 
 ### Major Python 2 to Python 3 changes
-Some of the changes are as methodic as print only strictly working parenthetically. 
+Some of the changes are as simple as print() only strictly working parenthetically. 
 Other major changes include nuances such as the new, strict requirement for socket methods, such as send, requiring type ***bytes*** instead of ***string***. 
 
 Here are examples. 
